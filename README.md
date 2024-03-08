@@ -7,8 +7,7 @@ Horiseon is a webpage that has accessible code. It is a site that is easy to nav
 
 ## Deployed Link
 
-[Deployed](https://www.example.com)
+[Deployed] https://clarkera.github.io/homeworkweek1-022724/
 
 ## Screenshot
 
-![Screenshot](image.jpg)
